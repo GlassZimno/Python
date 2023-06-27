@@ -1,0 +1,1 @@
+Easy,20,6*&*Standard,10,3*&*Hard,5,3*&*Impossible,0,1
